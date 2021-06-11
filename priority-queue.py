@@ -1,3 +1,7 @@
+# Priority Queue
+# Priority queue “owns” a heap as instance variable
+# We use heap operations on the heap object to implement all priority queue operations.
+
 from Heap import Heap
 
 class PriorityQueue: # Comments indicate what methods the Heap class must have
